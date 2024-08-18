@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/monopoly_demo2.dir/src/z6.c.o CMakeFiles/monopoly_demo2.dir/src/monopoly.c.o -o monopoly_demo2  -lncurses 

@@ -26,5 +26,5 @@ We can choose if we want to play against :
 **Example of active game board**
 ![Fourth](https://i.imgur.com/cvIFJZH.png)
 
-**End screen with Player 1 won the game**
+**End screen with Player 1 which is the winner of the game**
 ![Fifth](https://i.imgur.com/KQjhjHg.png)
